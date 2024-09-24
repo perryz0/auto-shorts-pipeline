@@ -1,5 +1,5 @@
 # auto-shorts-pipeline
-Auto Shorts Content Generator Project (Work in Progress)
+Auto shorts content generator project (wip) with Golang, C++, and Python
 
 ## Project Overview
 The `auto-shorts-pipeline` automates the generation of short-form video content using backend services, AI-generated scripts, and video processing. The backend manages user input, interacts with AI models like GPT-4, handles video assets, and integrates scripts with clips to produce engaging shorts.
