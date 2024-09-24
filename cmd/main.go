@@ -1,9 +1,10 @@
 package main
 
 import (
-	"auto-shorts-pipeline/internal/handlers"
 	"fmt"
 	"log"
+
+	"github.com/perryz0/auto-shorts-pipeline/internal/handlers"
 )
 
 func main() {
