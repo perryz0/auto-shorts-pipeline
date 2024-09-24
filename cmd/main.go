@@ -54,7 +54,7 @@ func min(a, b int) int {
 }
 
 func callChatGPT(prompt string) (string, error) {
-	apiKey := os.Getenv("OPENAI_API_KEY") // Ensure your API key is set in the environment
+	apiKey := os.Getenv("OPENAI_API_KEY") // TODO: Placeholder GPT API key
 
 	reqBody := ChatGPTRequest{
 		Model: "gpt-4",
