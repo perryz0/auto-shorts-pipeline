@@ -26,7 +26,7 @@ The `auto-shorts-pipeline` automates the generation of short-form video content 
 1. **Setup the Project**:
     - Clone the repository:
         ```bash
-        git clone https://github.com/your-username/auto-shorts-pipeline.git
+        git clone https://github.com/perryz0/auto-shorts-pipeline.git
         cd auto-shorts-pipeline
         ```
     - Set up the backend by navigating to the `cmd/backend` directory and running:
